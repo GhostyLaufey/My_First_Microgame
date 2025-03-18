@@ -1,1 +1,4 @@
-# My_First_Microgame
+# My_First_Microgame Project Title: My first microgame
+# My_First_Microgame Decription: The game is a FPS game. You shoot robots while you run, it is super laggy. I coloured the floor green, and then I coloured more fkoors green
+# My_First_Microgame Set up instructions: I opened unity then I clicked play.
+# My_First_Microgame Reflection: Issue one was that unity did not download on my computer, issue two was that when we decided you'd give me a computer we then had uni stuff every block for the rest of the week, issue three we had no more computers, issue four i couldnt get past the log in screen when we decided id use the windows computer, issue five i am again without computer. When I finally got a computer it took so long too loud and then it was really laggy 3/10 experience. I did learn how to colour things, how to move, how to save, and how to enter/exit the game. The only thing that went well was me turning the map neon green. I love unity please sponsor me YIPPE.
